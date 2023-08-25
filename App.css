@@ -1,0 +1,33 @@
+*
+{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+.container 
+{
+          display: flex;
+          width: 100%;
+          height: 40px;
+          justify-content: space-between;
+       
+          background-color: greenyellow;
+          align-items: center;
+          padding: 10px;
+}
+.image 
+{
+          border-radius: 100%;
+
+}
+.input_bar 
+{
+          width: 100%;
+          border: 4px;
+          height: 30px;
+
+}
+.favicon
+{
+          font-size: x-large;
+}
